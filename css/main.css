@@ -42,12 +42,14 @@ h2 {
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   font-size: 4rem;
-  margin: 0;
+  display: inline;
+  line-height: 1.4;
 }
 
 p {
   font-style: italic;
   font-size: 2rem;
   margin: 0;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
